@@ -1,0 +1,28 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnichi4/weatherApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnichi4/weatherApp/issues"
+  },
+  "homepage": "https://github.com/itsnichi4/weatherApp#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "lodash": "^4.17.21",
+    "style-loader": "^3.3.2",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@picocss/pico": "^1.5.7"
+  }
+}
